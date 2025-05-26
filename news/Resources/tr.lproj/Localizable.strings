@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  news
+
+  Created by Melik on 19.05.2025.
+  
+*/
+
+
+Splash.mainTitle = "Günlük Haber";
+
+Settings.tabBarTitle = "Ayarlar";
+Settings.autoMode = "Oto";
+Settings.lightMode = "Açık";
+Settings.darkMode = "Koyu";
+Settings.appTheme = "Uygulama Teması";
+Settings.notification = "Bildirim";
+Settings.rateUs = "Uygulamayı Puanla";
+Settings.privacyPolicy = "Gizlilik Sözleşmesi";
+Settings.termOfUse = "Kullanım Şartları";
+
+Onboarding.mainTitle = "Sana nasıl hitap edelim?";
+Onboarding.placeHolder = "Adınızı giriniz...";
+Onboarding.buttonText = "Başla";
+
+
+News.tabBarTitle = "Haberler";
+News.secondTimePostFix = "s önce";
+News.minuteTimePostFix = "d önce";
+News.hourTimePostFix = "sa önce";
+News.dayTimePostFix = "g önce";
+News.placeHolder = "Ara";
+News.backButtonTitle = "Haberler";
+News.shareLinkTitle = "Haberi Paylaş";
+News.cancelSharing = "İptal";

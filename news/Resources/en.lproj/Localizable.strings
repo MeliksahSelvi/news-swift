@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  news
+
+  Created by Melik on 19.05.2025.
+  
+*/
+
+Splash.mainTitle = "Daily News";
+
+Settings.tabBarTitle = "Settings";
+Settings.autoMode = "Auto";
+Settings.lightMode = "Light";
+Settings.darkMode = "Dark";
+Settings.appTheme = "App Theme";
+Settings.notification = "Notification";
+Settings.rateUs = "Rate Us";
+Settings.privacyPolicy = "Privacy Policy";
+Settings.termOfUse = "Term Of Use";
+
+Onboarding.mainTitle = "What should we call you?";
+Onboarding.placeHolder = "Write your name...";
+Onboarding.buttonText = "Get started";
+
+
+News.tabBarTitle = "News";
+News.secondTimePostFix = "s ago";
+News.minuteTimePostFix = "m ago";
+News.hourTimePostFix = "h ago";
+News.dayTimePostFix = "d ago";
+News.placeHolder = "Search";
+News.backButtonTitle = "News";
+News.shareLinkTitle = "Share News";
+News.cancelSharing = "Cancel";
